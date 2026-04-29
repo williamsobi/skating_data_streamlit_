@@ -1,0 +1,6 @@
+pandas as pd
+sci-skit learn
+joblib
+numpy as np
+streamlit as st
+matplotlib.pyplot as plt
