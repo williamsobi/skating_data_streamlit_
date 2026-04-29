@@ -3,4 +3,4 @@ sci-skit learn
 joblib
 numpy as np
 streamlit as st
-matplotlib as plt
+matplotlib.pyplot as plt
